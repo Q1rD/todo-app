@@ -10,7 +10,7 @@
 > ## Стэк
 > - Backend: golang (gorilla), php (laravel)
 > - Frontend: vue.js
-> - DB: Postgresql
+> - DB: Mysql
 > - Server: Nginx
 > - Notification service: kafka
 

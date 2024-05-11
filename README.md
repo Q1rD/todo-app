@@ -18,10 +18,11 @@
 >## ❓ Как пользоваться
 > **Установите docker engine себе на машину**
 >- **Как запустить веб сервер?** <br>
->  ✅ Скачайте все файлы из папки main <br>
->  ✅ Введите эту команду, находясь в дирректории проекта <br>
+>  ✅ Скачайте все файлы из папки stable <br>
+>  ✅ Введите эти команды, находясь в дирректории проекта <br>
 >    ```Docker
->    docker compose up -d
+>    docker compose run composer create-project laravel/laravel src
+     docker compose up -d
 >    ```
 >    ✅ Откройте браузер и зайдите на localhost:80
 >

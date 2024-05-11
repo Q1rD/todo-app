@@ -9,7 +9,7 @@
 > [!NOTE]
 > ## Стэк
 > - Backend: golang (gorilla), php (laravel)
-> - Frontend: React
+> - Frontend: Laravel
 > - DB: Mysql
 > - Server: Nginx
 > - Notification service: kafka

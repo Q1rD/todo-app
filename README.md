@@ -21,7 +21,7 @@
 >  ✅ Скачайте все файлы из папки stable <br>
 >  ✅ Введите эти команды, находясь в дирректории проекта <br>
 >    ```Docker
->    docker compose run composer create-project laravel/laravel src
+>    docker compose run composer create-project laravel/laravel src <br>
      docker compose up -d
 >    ```
 >    ✅ Откройте браузер и зайдите на localhost:80

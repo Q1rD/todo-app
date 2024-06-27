@@ -8,11 +8,11 @@
 
 > [!NOTE]
 > ## Стэк
-> - Backend: golang (gorilla), php (laravel)
-> - Frontend: Laravel
+> - Backend: golang (Gin, GORM), php (Laravel)
+> - Frontend: Laravel, Bootstrap
 > - DB: Mysql
 > - Server: Nginx
-> - Notification service: kafka
+> - Notification service: Kafka
 
 > [!IMPORTANT]
 >## ❓ Как пользоваться
